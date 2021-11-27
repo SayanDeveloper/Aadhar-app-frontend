@@ -18,4 +18,4 @@
 5. Now you are ready to start the app
 > expo start
 
-Thank You for reading till the end
+Thank You for reading till the end :-)
